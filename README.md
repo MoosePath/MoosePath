@@ -1,7 +1,7 @@
 - 👋 Hi! I’m I.
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning to collaborate
-- 💞️ I’m looking to collaborate on learning
+- 👀 I’m interested in learning.
+- 🌱 I’m currently learning to collaborate.
+- 💞️ I’m looking to collaborate on my interests.
 
 <!---
 MoosePath/MoosePath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
